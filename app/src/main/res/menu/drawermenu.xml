@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+    <item android:title="Home"
+    android:id="@+id/nav_item_home"
+    android:icon="@android:drawable/btn_plus"
+          android:checked="true"/>
+
+
+
+    <item android:title="Events"
+          android:id="@+id/nav_item_event"
+          android:icon="@android:drawable/btn_plus"/>
+
+
+
+    <item android:title="Workshops"
+          android:id="@+id/nav_item_workshops"
+          android:icon="@android:drawable/btn_plus"/>
+
+
+
+    <item android:title="Rendezvous"
+          android:id="@+id/nav_item_rendezvous"
+          android:icon="@android:drawable/btn_plus"/>
+
+
+
+    <item android:title="Soul Curry"
+          android:id="@+id/nav_Soul_curry"
+          android:icon="@android:drawable/btn_plus"/>
+
+
+
+    <item android:title="Picture Story"
+          android:id="@+id/nav_item_Picture_story"
+          android:icon="@android:drawable/btn_plus"/>
+
+
+    <item android:title="Placement Cell"
+          android:id="@+id/nav_item_placement_cell"
+          android:icon="@android:drawable/btn_plus"/>
+
+
+
+    <item android:title="Fests"
+          android:id="@+id/nav_item_fests"
+          android:icon="@android:drawable/btn_plus"/>
+
+
+
+    <item android:title="Achievement"
+          android:id="@+id/nav_item_achievement"
+          android:icon="@android:drawable/btn_plus"/>
+
+
+    </group>
+</menu>
